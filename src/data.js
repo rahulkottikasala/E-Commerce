@@ -36,7 +36,7 @@ const categories = [
 },
 {
     id:3,
-    img:'https://i.pinimg.com/originals/1e/55/bd/1e55bdc1278d253fd677a8e2b5aa169c.jpg',
+    img:'https://m.media-amazon.com/images/I/71m-3-3d1cL._AC_SL1500_.jpg',
     title:'POPULAR SALE'
 }
 ]
