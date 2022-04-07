@@ -47,7 +47,7 @@ const categories = [
         title:'SUMMER SALE'
     },
     {
-        id:452,
+        id:52,
         img:"https://m.media-amazon.com/images/I/71IHqw13DiL._AC_UL640_FMwebp_QL65_.jpg",      
         title:'WINTER SALE'
     },
@@ -57,12 +57,12 @@ const categories = [
         title:'POPULAR SALE'
     },
     {
-        id:452,
+        id:42,
         img:"https://m.media-amazon.com/images/I/912YTYpev4L._AC_UL640_FMwebp_QL65_.jpg",      
         title:'WINTER SALE'
     },
     {
-        id:543,
+        id:43,
         img:'https://m.media-amazon.com/images/I/71lk5dqKiKL._AC_UL640_FMwebp_QL65_.jpg',
         title:'POPULAR SALE'
     },

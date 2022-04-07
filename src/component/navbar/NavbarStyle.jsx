@@ -29,7 +29,8 @@ margin-left:25px;
 padding:5px;
 `;
 const Input = styled.input`
-border: none;
+border:none;
+outline:none;
 `;
 
 const Center = styled.div`

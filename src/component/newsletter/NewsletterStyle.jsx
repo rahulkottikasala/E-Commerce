@@ -31,6 +31,7 @@ border: 1px solid lightgrey
 
 const Input = styled.input`
 border: none;
+outline: none;
 flex: 8;
 padding-left: 20px;
 `
