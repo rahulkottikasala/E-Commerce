@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import {mobile} from "../../Responsive"
 
  const  Container = styled.div`
   width: 100%;
@@ -7,6 +7,8 @@ import styled from "styled-components";
   display: flex;
   position: relative;
   overflow: hidden;
+${mobile({display: 'none'})}
+
 `;
 
 const Arrow = styled.div`

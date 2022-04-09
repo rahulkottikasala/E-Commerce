@@ -33,7 +33,7 @@ const Product = () => {
       <Announcement />
       <Wrapper>
         <ImgContainer>
-          <Image src="https://m.media-amazon.com/images/I/71pZqo5BMFL._AC_SX695_.jpg" />
+          <Image src="https://m.media-amazon.com/images/I/71pZqo5BMFL._AC_AA360_.jpg" />
         </ImgContainer>
         <InfoContainer>
           <Title>Adidas StanSmith</Title>

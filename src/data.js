@@ -71,6 +71,27 @@ const categories = [
         img:"https://m.media-amazon.com/images/I/81GwQ2QJ8CL._AC_UL640_FMwebp_QL65_.jpg",      
         title:'WINTER SALE'
     },
+    
+    {
+        id:5432413,
+        img:'https://m.media-amazon.com/images/I/51Wm4KYzAFL._AC_UL640_FMwebp_QL65_.jpg',
+        title:'POPULAR SALE'
+    },
+    {
+        id:422,
+        img:"https://m.media-amazon.com/images/I/912YTYpev4L._AC_UL640_FMwebp_QL65_.jpg",      
+        title:'WINTER SALE'
+    },
+    {
+        id:413,
+        img:'https://m.media-amazon.com/images/I/71lk5dqKiKL._AC_UL640_FMwebp_QL65_.jpg',
+        title:'POPULAR SALE'
+    },
+    {
+        id:423252,
+        img:"https://m.media-amazon.com/images/I/81GwQ2QJ8CL._AC_UL640_FMwebp_QL65_.jpg",      
+        title:'WINTER SALE'
+    }
    
  ]
 
